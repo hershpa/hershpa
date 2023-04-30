@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- I am currently working on enabling technologies for cloud native AI and ML applications.
+- Automation | Cloud | CI | Data Analytics
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=hershpa&show_icons=true)
 
 <!--
@@ -7,8 +10,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on enabling technologies for cloud native AI and ML applications.
+- 🌱 I’m always looking to learn more about Automation | Cloud | CI | Data Analytics ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
