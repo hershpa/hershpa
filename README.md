@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hersh</h1>
-<h3 align="center">I am currently enabling datacenter GPUs and platform accelerators for end-to-end cloud native AI applications.</h3>
+<h3 align="center">I am currently enabling GPUs, accelerators and cloud native AI workloads & applications.</h3>
 <h3 align="center">Automation | CI | Cloud | Data Analytics | Distributed Systems | Kubernetes | Linux</h3>
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hershpa" alt="hershpa" /></a> </p> -->
